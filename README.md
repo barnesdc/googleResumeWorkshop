@@ -58,10 +58,11 @@ Tell us what excites you
   
 ## PhD Format ##
 
-  - ### Education ###
-  - ### Work Experience ###
-  - ### Research Project ###
-  - ### Conferences / Publications ###
+  - ### Education History ###
+  - ### Work Experiences ###
+  - ### Research Projects ###
+  - ### Conferences / Presentations ###
+  - ### Publications / Honors / Awards
 
   ## Other notes ##
     - dont worry about a cover letter
