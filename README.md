@@ -27,7 +27,7 @@
     - used c++ to provide webmail and storage services akin to Gmail and G Drive by building a load-balancing cloud platform from scratch
   - [name of project], personal project 
     - used objective C to accomplish...
-  
+    
 ## Activities / Leadership
 Tell us what excites you
   - clubs / organizations
@@ -56,4 +56,17 @@ Tell us what excites you
     - Data Structures & Algorithms
   - Utilize **Leet Code**
   
+## PhD Format ##
+
+  - ### Education ###
+  - ### Work Experience ###
+  - ### Research Project ###
+  - ### Conferences / Publications ###
+
+  ## Other notes ##
+    - dont worry about a cover letter
+    - resume length
+    - dont worry about external references
+      - **DO** include Google References
+    - include expected graduation date
   
