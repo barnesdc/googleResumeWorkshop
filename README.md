@@ -1,13 +1,13 @@
 # googleResumeWorkshop Notes
 
-# Education
+## Education
   - Post -secondary School(s) attended
   - intended major / degree
   - graduation month and year
   - GPA
   - Technical Skills*
 
-# Work Experiences
+## Work Experiences
   - include employer, position, dates employed
   - bullets points clear, concise, and descriptive
   - consider relevant experience
@@ -18,7 +18,7 @@
     
     **i.e.** Deployed new in-house account reconcilliation system using **Python** and imporoved latency by 12% by desiging and implementing new framework
     
-# Projects
+## Projects
   - use formula: "Accomplished[X], as mesaured by [Y], by doing [Z]"
   - course / personal projects
   - tecnhical skills gained: ie. Java, C, C++, Python, Javascript, Go
@@ -28,7 +28,7 @@
   - [name of project], personal project 
     - used objective C to accomplish...
   
-# Activities / Leadership
+## Activities / Leadership
 Tell us what excites you
   - clubs / organizations
   - national society chapters
@@ -38,7 +38,7 @@ Tell us what excites you
   - open sources projects
   - tech-focused developmental programs
   
-# Honors / Awards
+## Honors / Awards
   - distinguished academic awards
   - speaking engagments
   - presentations & publications
@@ -48,7 +48,7 @@ Tell us what excites you
   - quanitative info about the award
 
     
-## Random
+### Random
   - create a 'bullet point bank' for your contributions in each role to be use in varuous resumes
   - Google frequent languages
     - Java, C, C++, C#, Python, JavaScript, Go
