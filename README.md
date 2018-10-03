@@ -67,6 +67,6 @@ Tell us what excites you
     - dont worry about a cover letter
     - resume length
     - dont worry about external references
-      - **DO** include Google References
+    - DO include Google References
     - include expected graduation date
   
