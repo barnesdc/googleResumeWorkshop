@@ -69,4 +69,9 @@ Tell us what excites you
     - dont worry about external references
     - DO include Google References
     - include expected graduation date
+    
+## Links ##
+  - https://techdevguide.withgoogle.com
+  - https://buildyourfuture.withgoogle.com
+  - https://www.youtube.com/playlist?list=PLObwPhL-cU6hC2tJIc8YybME4R4RAy3hY
   
